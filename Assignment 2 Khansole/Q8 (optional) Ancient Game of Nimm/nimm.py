@@ -2,8 +2,6 @@
 Ancient Strategy Game of Nimm or Tiouk Tiouk or Tsynshidzi
 """
 
-import random
-
 def main():
     TOTAL_STONES = 20
     Remove = 0
